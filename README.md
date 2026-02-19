@@ -1,4 +1,4 @@
-### Bem vindos ao meu GitHub, me chamo Daniella sou graduada em Análise e Desenvolvimento de Sistemas e pós graduada em Especialização em Java. Estudante de tecnologia e no momento me aprimorando em Desenvolvimento Android
+ ### Bem vindos ao meu GitHub, me chamo Daniella sou graduada em Análise e Desenvolvimento de Sistemas e pós graduada em Especialização em Java. Estudante de tecnologia e no momento me aprimorando em Desenvolvimento Android
 
 <!--
 **DannyRodrygues/DannyRodrygues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,8 +41,7 @@ Here are some ideas to get you started:
   <a href = "mailto:daniellaoliveirarodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniella-rodrigues-703577223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
   </div>
 
   [Danny Rodrigues](https://beacons.ai/devdanyrodrigues)
