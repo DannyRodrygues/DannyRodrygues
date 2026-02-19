@@ -1,4 +1,4 @@
-### Olaaa!! Me chamo Daniella Rodrigues, estudante e criadora de conteúdo de Programação.
+### Bem vindos ao meu GitHub, me chamo Daniella sou graduada em Análise e Desenvolvimento de Sistemas e pós graduada em Especialização em Java. Estudante de tecnologia e no momento me aprimorando em Desenvolvimento Android
 
 <!--
 **DannyRodrygues/DannyRodrygues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
